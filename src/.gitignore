@@ -1,0 +1,7 @@
+deprecate
+*ipynb
+clean_integrate.py
+detector_bowen.py
+dins_test.py
+integrate_test_clean.py
+rmcat_deprecated.py
